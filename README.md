@@ -11,3 +11,5 @@ This is a modified version of password grant type to support both APIM and IS sc
 grant_handler = "org.wso2.custom.sample.grant.password.ExtendedPasswordGrantHandlerForXACML"
 ```
 - Restart WSO2 ISKM
+
+Note: This a sample impletation only and it is expected to test all the flows properly before using.
